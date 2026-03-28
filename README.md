@@ -12,6 +12,6 @@ Escolha uma opção digitando o número correspondente:
 3 para Tesoura
 O programa mostrará a jogada do jogador e do computador.
 O resultado será exibido:
-Vitória do jogador
-Vitória do computador
-Empate
+Vitória do jogador;
+Vitória do computador;
+Empate;
